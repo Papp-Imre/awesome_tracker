@@ -1,0 +1,8 @@
+name: repository
+description: An app-agnostic data source that can be used by all implementations
+
+dependencies:
+  meta:
+
+dev_dependencies:
+  mockito: ">=2.2.3 <3.0.0"

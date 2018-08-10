@@ -1,0 +1,15 @@
+name: firebase_flutter_repository
+description: A reactive version of the tasks repository for Flutter
+
+dependencies:
+  flutter:
+    sdk: flutter
+  repository:
+    path: ../repository
+  firebase_auth: 0.5.9
+  cloud_firestore: 0.7.0
+
+dev_dependencies:
+  mockito: ">=2.2.0 <3.0.0"
+  flutter_test:
+    sdk: flutter

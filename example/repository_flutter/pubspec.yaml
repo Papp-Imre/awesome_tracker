@@ -1,0 +1,14 @@
+name: repository_flutter
+description: An app-agnostic data source that can be used by all implementations
+
+dependencies:
+  flutter:
+    sdk: flutter
+  repository:
+    path: ../repository
+  rxdart: 0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ">=2.2.3 <3.0.0"
